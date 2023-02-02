@@ -1,0 +1,78 @@
+.cuerpo{
+	background-color:black;
+	font-family:helvetia;
+}
+
+.tz-gallery {
+	background-color:black;
+}
+
+.container-fluid{
+	background-color:black;
+}
+
+.nombre{
+	font-size: 70px;
+	color: white;
+}
+
+.linea{
+	background-color:white;
+}
+
+.nav-link{
+	color:white !important;
+}
+
+.navbar-toggler-icon{
+	color:white;
+}
+
+.item{
+	height:100%;
+	width:100%;
+
+}
+
+.container{
+	height:100%;
+	background-color:black;
+}
+
+.jumbotron{
+	font-family:helvetia;
+}
+
+.opinionfondo{
+	background-color:black;
+	color:white;
+	height:20px;
+
+}
+
+.enviar{
+	color:blue;
+}
+
+.escribir{
+	color:black;
+}
+
+
+.nombreapellido{
+	color:black;
+}
+
+.mensaje{
+	font-family:helvetia;
+background-color:black;
+color:white;	
+}
+
+.imagen{
+	height:100%;
+	width:100%;
+	background-color:black;
+}
+
+

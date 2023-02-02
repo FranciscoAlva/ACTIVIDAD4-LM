@@ -1,0 +1,95 @@
+/*md y lg*/
+@media screen and (min-width:768px) {
+#bloque1 {
+	background-color:green;
+	height: 100px;
+	}
+#bloque2 {
+	background-color:red;
+	height:500px;
+	}
+#bloque3 {
+	background-color:red;
+	height:500px;
+	}
+#bloque4 {
+	background-color:red;
+	height:500px;
+	}
+#bloque5 {
+	background-color:yellow;
+	height:100px;
+	}
+#bloque6 {
+	background-color:yellow;
+	height:100px;
+	}
+
+}
+
+/*sm*/
+@media screen and (max-width:767px) {
+#bloque1 {
+	background-color:turquoise;
+	height:100px;
+	}
+#bloque2 {
+	background-color:red;
+	height:200px;
+	}
+#bloque3 {
+	background-color:red;
+	height:200px;
+	}
+#bloque4 {
+	background-color:green;
+	height:250px;
+	}
+#bloque5 {
+	background-color:yellow;
+	height:100px;
+	}
+#bloque6 {
+	background-color:yellow;
+	height:100px;
+	}
+}
+
+
+/*xs*/
+@media screen and (max-width:576px) {
+#bloque1 {
+	background-color:pink;
+	height:100px;
+	}
+#bloque2 {
+	background-color:red;
+	height:200px;
+	}
+#bloque3 {
+	background-color:turquoise;
+	height:200px;
+	}
+#bloque4 {
+	background-color:red;
+	height:200px;
+	}
+#bloque5 {
+	background-color:yellow;
+	height:100px;
+	}
+#bloque6 {
+	background-color:yellow;
+	height:100px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
